@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontapify=self.webpackChunkfrontapify||[]).push([[483],{1710:function(a){a.exports=JSON.parse('{"allTagsPath":"/frontapify.com/blog/tags","slug":"/frontapify.com/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/frontapify.com/blog/tags/docusaurus"}')}}]);
