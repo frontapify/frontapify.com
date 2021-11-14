@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrontapify=self.webpackChunkfrontapify||[]).push([[337],{1787:function(a){a.exports=JSON.parse('{"allTagsPath":"/frontapify.com/blog/tags","slug":"/frontapify.com/blog/tags/hola","name":"hola","count":1,"permalink":"/frontapify.com/blog/tags/hola"}')}}]);

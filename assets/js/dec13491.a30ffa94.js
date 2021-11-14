@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrontapify=self.webpackChunkfrontapify||[]).push([[27],{6436:function(o){o.exports=JSON.parse('{"allTagsPath":"/frontapify.com/blog/tags","slug":"/frontapify.com/blog/tags/facebook","name":"facebook","count":1,"permalink":"/frontapify.com/blog/tags/facebook"}')}}]);
